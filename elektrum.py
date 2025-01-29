@@ -40,14 +40,12 @@ def generate_address(input_file, file1, file2, file3):
         
         
 input_file_path = 'mnemonics.txt'
-file1 = 'electrum_addresses44.txt'
+file1 = 'electrum_addresses.txt'
 file2 = 'addr1.txt'
 file3 = 'addr2.txt'
 generate_address(input_file_path, file1, file2, file3)
 
 
 
-#'omit traffic crawl leisure equal labor raccoon naked dark ketchup play'
 #"money money money money money money money money money money money money"
-#"abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
 #"sometimes sometimes sometimes sometimes sometimes sometimes sometimes sometimes sometimes sometimes sometimes sometimes"
